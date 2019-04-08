@@ -6,6 +6,7 @@ This mod adds
 Blob Bit (Used to craft blob themed equipment. Credit to Crissy for the idea.) - 5 Jungle Spores , Life Crystal , 3 Ruby .
 Cat Shard (Used to craft cat themed equipment.) -  3 Ruby , 50 Wood , 100 Stone , 2 Iron Bar , 120 Gel,  1 Gold Bar.
 Soul of Cats (Used to craft more intense (That means hardcore and even post moonlord items.) - 15 Cat Shards, 3 Ruby , 1 Life Crystal.
+Spark of Life (Used to craft even more intense equipment) - 2 Soul of Cats , 5 Life fruit.
 
 [Items]
 
