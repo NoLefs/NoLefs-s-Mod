@@ -20,6 +20,11 @@ Gun Sword - 1 Newbie Cat Sword , 5 Cat Shard , 2 Soul of Cats , 20 Musket balls,
 [Accessories]
 Soul of the God Cat - 1 Moonlord Trophy , 1 Bob the Blob , 1 True Cat Sword , 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 10 Life Fruit , 999 Gel.
 
+[Armor]
+Cat Breastplate - 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
+Cat Helmet - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
+Cat Leggings - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
+
 [Blob themed]
 
 [Weapons]
