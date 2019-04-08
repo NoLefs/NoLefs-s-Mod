@@ -32,6 +32,7 @@ Cat Leggings - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Lif
 
 [Weapons]
 Blob lance - 4 Blob Bit.
+Blob Staff - 4 Blob Bit , 10 Star , 5 Emerald
 
 [Accessories]
 Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 2 Life Fruit , 999 Gel.
