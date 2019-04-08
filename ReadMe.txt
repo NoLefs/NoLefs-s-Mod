@@ -1,4 +1,6 @@
 This mod adds
+stuff
+(If you want more explaned version then use Recipe Browser or use the Guide NPC.)
 
 - = how to craft.
 
