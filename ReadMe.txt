@@ -19,6 +19,8 @@ Newbie Cat Sword - 1 Cat Shard , 50 Wood.
 Normal Cat Sword - 1 Newbie Cat Sword , 15 Cat Shard , 3 Soul of Cats, 40 Hellstone , 40 Obsidian.
 True Cat Sword - 10 Soul of Cats , 1 Normal Cat Sword , 20 Cat Shard , 20 Ruby , 5 Life Crystal , 2 Life Fruit , 1 Terrablade.
 Gun Sword - 1 Newbie Cat Sword , 5 Cat Shard , 2 Soul of Cats , 20 Musket balls, 10 Iron bars.
+Yarn Ball - 5 Cat Shard, 1 Wooden Yoyo.
+Cat Cainsaw - 1 Newbie Cat Sword, 50 Wood, 2 Cat Shard
 
 [Accessories]
 Soul of the God Cat - 1 Moonlord Trophy , 1 Bob the Blob , 1 True Cat Sword , 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 10 Life Fruit , 999 Gel.
@@ -33,6 +35,7 @@ Cat Leggings - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Lif
 [Weapons]
 Blob lance - 4 Blob Bit.
 Blob Staff - 4 Blob Bit , 10 Star , 5 Emerald
+Blob Yoyo - 4 Blob bit, 1 Wooden Yoyo
 
 [Accessories]
 Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 2 Life Fruit , 999 Gel.
