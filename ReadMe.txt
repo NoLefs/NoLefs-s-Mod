@@ -41,3 +41,10 @@ Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 
 
 [Weapons]
 Stick - 20 Wood.
+
+
+[NPCs]
+
+[Hostile]
+Cat Slime - Gives 1 Cat Shard on death.
+Blob Slime - Gives 1 Blob bit on death.
