@@ -30,6 +30,10 @@ Cat Breastplate - 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 
 Cat Helmet - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
 Cat Leggings - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
 
+[Pets]
+Kytako's Cat (Spawned with Cat Treat) -
+High Cat (Spawned with Syringe (summon) ) - Syringe , 3 "Sugar"
+
 [Blob themed]
 
 [Weapons]
@@ -42,6 +46,20 @@ Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 
 
 [Basic]
 
+[Materials]
+"Sugar" - 1 Blue Herbs , 1 Purple Herbs
+Blue Herb - 3 Sapphire , 20 Jungle Spores
+Purple Herb - 3 Amethyst , 20 Jungle Spores
+Bottle of Blood - 5 Tissue Sample , 1 Bottle
+Bottle of Venom - 2 Bottle of Poison , 1 Flask of Venom , 2 Bottle of Poison
+Bottle of Poison - 1 Bottle , 3 Stinger , 5 Jungle Spores
+
+[Potions]
+2 The Drug - 5 Good Drug , 3 venom
+Good Drug - 2 Homemade Drug , 3 Blue Herbs
+Homemade Drug - 2 Bad Drug , 1 Bottle of Blood , 1 "Sugar"
+Bad Drug - 1 Syringe , 1 Poison , 2 Lesser healing potions
+
 [Weapons]
 Stick - 20 Wood.
 
@@ -51,3 +69,4 @@ Stick - 20 Wood.
 [Hostile]
 Cat Slime - Gives 1 Cat Shard on death.
 Blob Slime - Gives 1 Blob bit on death.
+High Slime - Gives 1 Syringe on death.
