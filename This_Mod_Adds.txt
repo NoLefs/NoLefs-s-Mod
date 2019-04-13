@@ -62,7 +62,9 @@ Bad Drug - 1 Syringe , 1 Poison , 2 Lesser healing potions
 
 [Weapons]
 Stick - 20 Wood.
-
+Iced Steel - 1 Ice bow , 100 Iceblock , 20 Ice torch , 1 Frost core , 300 Frostburn arrow
+Crystalline Arrow - 10 Frostburn arrow , 1 Iceblock , 1 Crystal Shard
+Crystalline Quiver - 3996 Crystalline Arrow
 
 [NPCs]
 
