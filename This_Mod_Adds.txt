@@ -44,6 +44,13 @@ Blob Yoyo - 4 Blob bit, 1 Wooden Yoyo
 [Accessories]
 Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 2 Life Fruit , 999 Gel.
 
+
+[Mech themed]
+
+[Weapons]
+Reinforced Blade - 1 Wooden sword , 5 Metallic platings.
+
+
 [Basic]
 
 [Materials]
@@ -72,3 +79,5 @@ Crystalline Quiver - 3996 Crystalline Arrow
 Cat Slime - Gives 1 Cat Shard on death.
 Blob Slime - Gives 1 Blob bit on death.
 High Slime - Gives 1 Syringe on death.
+Mech Eye - Gives 1 Mettalic Plating on death.
+Mech Slime - Gives 1 Mettalic Plating on death.
