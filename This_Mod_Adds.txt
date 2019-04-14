@@ -81,3 +81,4 @@ Blob Slime - Gives 1 Blob bit on death.
 High Slime - Gives 1 Syringe on death.
 Mech Eye - Gives 1 Mettalic Plating on death.
 Mech Slime - Gives 1 Mettalic Plating on death.
+Chest Slime - Gives 1 Chest on death.
