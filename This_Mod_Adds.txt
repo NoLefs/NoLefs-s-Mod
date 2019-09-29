@@ -1,90 +1,126 @@
-This mod adds
-stuff
-(If you want more explained version then use Recipe Browser or use the Guide NPC.)
+Hello and welcome to the general info page for Nolefs mod.
 
-- = how to craft.
-
-[Basic Materials]
-Blob Bit (Used to craft blob themed equipment. Credit to Crissy for the idea.) - 5 Jungle Spores , Life Crystal , 3 Ruby .
-Cat Shard (Used to craft cat themed equipment.) -  3 Ruby , 50 Wood , 100 Stone , 2 Iron Bar , 120 Gel,  1 Gold Bar.
-Soul of Cats (Used to craft more intense (That means hardmode and even post moonlord items.) - 15 Cat Shards, 3 Ruby , 1 Life Crystal.
-Spark of Life (Used to craft even more intense equipment) - 2 Soul of Cats , 5 Life fruit.
-
-[Items]
-
-[Cat themed]
-
-[Weapons]
-Newbie Cat Sword - 1 Cat Shard , 50 Wood.
-Normal Cat Sword - 1 Newbie Cat Sword , 15 Cat Shard , 3 Soul of Cats, 40 Hellstone , 40 Obsidian.
-True Cat Sword - 10 Soul of Cats , 1 Normal Cat Sword , 20 Cat Shard , 20 Ruby , 5 Life Crystal , 2 Life Fruit , 1 Terrablade.
-Gun Sword - 1 Newbie Cat Sword , 5 Cat Shard , 2 Soul of Cats , 20 Musket balls, 10 Iron bars.
-Yarn Ball - 5 Cat Shard, 1 Wooden Yoyo.
-Cat Cainsaw - 1 Newbie Cat Sword, 50 Wood, 2 Cat Shard
-
-[Accessories]
-Soul of the God Cat - 1 Moonlord Trophy , 1 Bob the Blob , 1 True Cat Sword , 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 10 Life Fruit , 999 Gel.
-
-[Armor]
-Cat Breastplate - 25 Cat Shard , 15 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
-Cat Helmet - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
-Cat Leggings - 15 Cat Shard , 10 Soul of Cats , 20 Ruby , 5 Life Crystal , 2 Life Fruit.
-
-[Pets]
-Kytako's Cat (Spawned with Cat Treat) -
-High Cat (Spawned with Syringe (summon) ) - Syringe , 3 "Sugar"
-
-[Blob themed]
-
-[Weapons]
-Blob lance - 4 Blob Bit.
-Blob Staff - 4 Blob Bit , 10 Star , 5 Emerald
-Blob Yoyo - 4 Blob bit, 1 Wooden Yoyo
-
-[Accessories]
-Bob the Blob - 20 Jungle spores , 3 Blob Bit , 999 Mud block , 5 Life Crystal , 2 Life Fruit , 999 Gel.
-
-
-[Mech themed]
-
-[Weapons]
-Reinforced Blade - 1 Wooden sword , 5 Metallic platings.
-
-
-[Basic]
+here you can view what the mod will bring to you the player.
 
 [Materials]
-"Sugar" - 1 Blue Herbs , 1 Purple Herbs
-Blue Herb - 3 Sapphire , 20 Jungle Spores
-Purple Herb - 3 Amethyst , 20 Jungle Spores
-Bottle of Blood - 5 Tissue Sample , 1 Bottle
-Bottle of Venom - 2 Bottle of Poison , 1 Flask of Venom , 2 Bottle of Poison
-Bottle of Poison - 1 Bottle , 3 Stinger , 5 Jungle Spores
 
-[Potions]
-2 The Drug - 5 Good Drug , 3 venom
-Good Drug - 2 Homemade Drug , 3 Blue Herbs
-Homemade Drug - 2 Bad Drug , 1 Bottle of Blood , 1 "Sugar"
-Bad Drug - 1 Syringe , 1 Poison , 2 Lesser healing potions
+Blob bit, can me obtained from the blob slime
+Cat Shard, can be obtained from the cat slime
+Blood, can be crafted with 5 Tissue samples, 1 bottle. crafted at a table.
+Blue Herb, can be crafted with 3 sapphire, 20 jungle spores. crafted at a bottle on a table.
+Purple Herb, can be crafted with 3 amethyst, 20 jungle spores. crafted at a bottle on a table.
+Sugar, can be crafted with 1 Blue Herb, 1 Purple Herb. crafted with a bottle on a table.
+Souls of cats, can be crafted with 15 cat shards, 3 ruby, 1 life crystal. crafted at a demon altar.
+Refined Sapphire, can be crafted with 10 glass blocks, 2 sapphire. crafted at a anvil.
+Mechanical Bar, can be crafted with all 3 mechanical pieces, 3 metal plating. crafted at a hardmode anvil.
+Poison, can be crafted with 1 bottle, 3 stingers, 5 jungle spores. crafted at a bottle on a table.
+Venom, can be crafted with 2 Poison, 1 Flask of venom, 1 heart crystal. crafted at a bottle on a table.
+Magic gun pages, can be crafted with 1 gun book. crafted at a crystal ball
+Blueprint pieces, can be obtained from the goblin Tinkerer.
+Blueprint, can be crafted with 15 Blueprint pieces. crafted at a Tinkerer's workshop.
+1911 blueprint, can be crafted with 1 blueprint 1 gunbook or 1 Magic gun pages. crafted at a Tinkerer's workshop.
+AK-47 blueprint, can be crafted with 1 bluprint, 1 gunbook or Magic gun pages. crafted at a Tinkerer's workshop.
+Chest, obtained form chest slimes.
+Fun facts, can be obtained from the merchant.
+Metallic plating, can be obtained from Chest.
+Empty book, given to a new character.
+Syringe, obtained from chest
 
 [Weapons]
-Stick - 20 Wood.
-Iced Steel - 1 Ice bow , 100 Iceblock , 20 Ice torch , 1 Frost core , 300 Frostburn arrow
+
+AK-47, 1 illegal gun parts, 50 wood, 5 metallic plating, 1 AK-47 blueprint.
+1911, 1 illegal gun parts, 50 wood, 5 metallic plating.
+Mech shotgun, 1 shotgun, 20 iron, 20 metallic plating.
+Laser bow, 1 gold bow, 20 iron, 5 metallic plating.
+Iced steel, 1 ice bow, 100 ice block, 20 ice torch, 1 frost core, 200 frostburn arrows.
+Stick, 20 wood
+Stick, 1 stick 20 wood, 10 stone.
+Copper stick, 1 stick, 10 copper, 30 stone.
+Tin stick, 1 stick, 10 copper, 30 stone.
+Ancient cat sword, 10 fallen stars, 2 life crystals, 1 newbie cat sword
+Newbie cat sword, 1 cat piece, 50 wood
+Club of blob, 4 Blob bits.
+Normal ancient cat sword, 50 bone, 20 hellstone bars, 1 ancient cat sword.
+True ancient cat sword, 100 souls of night, 30 hallowed bars, 10 titanium, 1 normal ancient cat sword.
+Normal cat sword, 1 ancient cat sword, 1 newbie cat sword, 15 cat shards, 40 hellstone, 40 obsidian.
+Cat god's sword, dropped from king cat slime.
+Gun sword, 1 newbie cat sword, 5 cat shard, 2 souls of cat, 20 musket balls, 10 iron bars.
+Reinforced blade, 5 metallic plating, 1wooden sword.
+Reinforced bladex2, 10 metallic plating, 10 iron bars, 1 reinforced blade.
+Activated reinforced blade, 20 metallic plating, 40 bones, 30 hellstone bars, 1 reinforced bladex2, 1 pwnhammer.
+True cat sword, 10 souls of cat, 1 normal cat sword, 20 cat shards, 20 ruby, 5 heart crystals, 2 life fruit, 1 Terra blade.
+Blob staff, 10 fallen stars, 4 blob bits, 5 emeralds.
+Blob yoyo, 4 blob bits, 1 wooden yoyo.
+Spikey ball, 5 iron.
+Yarn ball, 5 cat shards, 1 wooden yoyo.
+
+[Magic weapons]
+
+Book of blob, 1 empty book, 5 blob bits. station: anvil
+Book of the darkness, 1 empty book, 2 poison, 10 souls of night. station: anvil
+Book of the fire, 1 empty book, 10 hellstone, 10 obsidian. station: anvil
+Book of the nature, 1 empty book, 5 stingers. station: anvil
+True book of blob, 1 book of the blob, 5 mechanical bars, 20 blob bits. station: hardmode anvil
+True book of the darkness, 1 mechanical heart, 1 book of the darkness, 5 mechanical bars, 20 souls of night. station: hardmode anvil
+True book of the fire, 1 book of the fire, 100 obsidian, 50 meteorite, 20 hellstone bars. station: hardmode anvil
+Ture book of the nature, 1 book of the nature, 5 mechanical bars, 20 stingers. station: hardmode anvil
+Cat slime slayer, obtained 0.1% drop from cat slimes.
+
+[Armor/Equipment]
+
+Blob helmet, 5 blob bits, 1 iron helmet. station: anvil
+Blob brestplate, 5 blob bits, 1 iron chainmail. station: anvil
+Blob leggings, 5 blob bits, 1 iron greaves. station: anvil
+Ancient cat helmet, drops from cat slime(0.2% drop chance)
+Enhanced Ancient cat helmet, 1 ancient cat helmet, 10 metallic plating. station: anvil
+Cat brestplate, 25 cat shards, 15 souls of cats, 20 ruby, 5 heart crystals, 2 life fruit. station: hardmode anvil
+Cat helmet, 15 cat shards, 10 souls of cats, 20 ruby, 5 heart crystals, 2 life fruit. station: hardmode anvil
+Cat leggings, 15 cat shards, 10 souls of cats, 20 ruby, 5 heart crystals, 2 life fruit. station: hardmode anvil
+Mech helmet, 5 mechanical bars, 1 hallowed helmet, 5 hellowed bars. station: hardmode anvil
+Mech breastplate, 10 mechanical bars, 1 hallowed plate mail, 5 hallowed bars. station: hardmode anvil
+Mech leggings, 5 mechanical bars, 1 hallowed greaves, 5 hallowed bars. station: hardmode anvil
+Cat treat,: 10 cat shards. station: demon altar.
+Spark of life, 2 cat shards, 5 crystal hearts. station: demon altar
+Flower of life, 1 spark of life, 5 heart crystals, 2 life fruit. station: hardmode anvil
+Soul of life, 1 flower of life, 30 luminite, 10 life fruit. station: hardmode anvil
+Bob the blob, 20 jungle spores, 3 blob bits, 999 mudblocks, 5 heart crystals, 2 life fruit, 999 gel, 1 spark of life. station: hardmode anvil
+Soul of the god cat, 1 moon lord trophy, 1 bob the blob, 1 true cat sword, 25 cat shards, 15 souls of cats, 20 ruby, 5 heart crystals, 10 life fruit, 999 gel. station: hardmode anvil
+Mechanical heart, 10 mechanical bars, 5 heart crystals, 20 hallowed bars. station: hardmode anvil
+Nurse medallian, 2 blood, 4 heart crystals. station: anvil
+Obsidian artifact, 2 blob bits, 1 obsidian skull, 5 ironskin potions. station: anvil
+
+[Comsumables]
+
+Kvass: 1 bottle water, 3 sugar. station: bottle on a table.
+Lef cola: 1 bottle water, 3 sugar. station: bottle on a table.
+Vodka: 1 bottle water, 3 sugar. station: bottle on a table.
+Blob potion: 3 blob bits, 2 lesser healing potions. station: bottle on a table.
+Bad drug: 1 syringe, 1 poison,  2 lesser healing potions. station: bottle on a table.
+Medium drug: 2 bad drug, 1 sugar, 1 blood. station: bottle on a table.
+Good drug: 2 blood, 3 blue herbs. station: bottle on a table.
+The drug: 2 good drug, 3 venom. station: bottle on a table.
+Cat eye's: 1 slime crown, 5 souls of night, 5 souls of light, 5 cat shards. station: hardmode anvil
 
 [Ammo]
-10 Crystalline Arrow - 10 Frostburn arrow , 1 Iceblock , 1 Crystal Shard
-Crystalline Quiver - 3996 Crystalline Arrow
-20 Firerock Arrow - 20 Steel Arrow , 15 Hellstone
-Firerock Quiver - 3996 Firerock Arrow
-20 Steel Arrow - 2 Iron bar , 20 Stone block , 20 Wood.
-Steel Quiver - 3996 Steel Arrow
 
-[NPCs]
+Blood bullet: 100 chlorophyte bulltes, 1 blood. station: anvil
+crystalline arrows: 10 frostburn arrows, 1 ice block, 1 crystal shard. station: anvil
+steel arrows: 2 iron bars, 20 wood, 20 stone blocks. station: anvil
+electric arrows: 20 steel arrows. station: table
+fire rock arrows: 20 steel arrows, 15 hellstone. station: anvil
+laser arrow: 1 metallic plating, 20 steel arrows. station: anvil
+lef arrow: 30 crystalline arrows, 2 chests. station: anvil
+web arrow: 40 webs, 20 steel arrows. station: anvil
 
-[Hostile]
-Cat Slime - Gives 1 Cat Shard on death.
-Blob Slime - Gives 1 Blob bit on death.
-High Slime - Gives 1 Syringe on death.
-Mech Eye - Gives 1 Mettalic Plating on death.
-Mech Slime - Gives 1 Mettalic Plating on death.
-Chest Slime - Gives 1 Chest on death.
+[NPC'S]  [H, hostile] [F, friendly]
+
+Blob slime. H
+Cat slime. H
+Chest slime. H
+High slime. H
+Mech slime. H
+Mech eye. H
+
+[Bosses]
+
+King cat slime. H
