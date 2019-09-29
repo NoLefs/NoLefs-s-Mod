@@ -4,7 +4,7 @@ here you can view what the mod will bring to you the player.
 
 [Materials]
 
-Blob bit, can me obtained from the blob slime
+Blob bit, can be obtained from the blob slime
 Cat Shard, can be obtained from the cat slime
 Blood, can be crafted with 5 Tissue samples, 1 bottle. crafted at a table.
 Blue Herb, can be crafted with 3 sapphire, 20 jungle spores. crafted at a bottle on a table.
