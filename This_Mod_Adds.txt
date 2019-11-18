@@ -23,8 +23,9 @@ AK-47 blueprint, can be crafted with 1 blueprint, 1 gunbook or Magic gun pages. 
 Chest, obtained form chest slimes.
 Fun facts, can be obtained from the merchant.
 Metallic plating, can be obtained from Chest.
-Empty book, given to a new character.
+Token o bless, given to a new character.
 Syringe, obtained from chest
+Rotten Health Potion, drops from Zombies and skeletons.
 
 [Weapons]
 
@@ -53,13 +54,18 @@ Blob staff, 10 fallen stars, 4 blob bits, 5 emeralds.
 Blob yoyo, 4 blob bits, 1 wooden yoyo.
 Spikey ball, 5 iron.
 Yarn ball, 5 cat shards, 1 wooden yoyo.
+Sword of the Fire, 10 hellstone, 10 Obsidian, 1 token o bless.
+Sword of the Nature, 5 stingers, 1 roken o bless.
+Sword of the darkness, 2 poison, 10 souls of night, 1 token o bless.
+Sword of the Blob, 5 blob bits, 1 token o bless.
+Sword of the Meowverse, 3 true ancient cat swords, 1 black hole, 1 activated reinforced sword, 1 cat slime slayer sword, 1 cat god's sword, 1 terra blade.
 
 [Magic weapons]
 
-Book of blob, 1 empty book, 5 blob bits. station: anvil
-Book of the darkness, 1 empty book, 2 poison, 10 souls of night. station: anvil
-Book of the fire, 1 empty book, 10 hellstone, 10 obsidian. station: anvil
-Book of the nature, 1 empty book, 5 stingers. station: anvil
+Book of blob, 1 token o bless, 5 blob bits. station: anvil
+Book of the darkness, 1 token o bless, 2 poison, 10 souls of night. station: anvil
+Book of the fire, 1 token o bless, 10 hellstone, 10 obsidian. station: anvil
+Book of the nature, 1 token o bless, 5 stingers. station: anvil
 True book of blob, 1 book of the blob, 5 mechanical bars, 20 blob bits. station: hardmode anvil
 True book of the darkness, 1 mechanical heart, 1 book of the darkness, 5 mechanical bars, 20 souls of night. station: hardmode anvil
 True book of the fire, 1 book of the fire, 100 obsidian, 50 meteorite, 20 hellstone bars. station: hardmode anvil
@@ -88,6 +94,9 @@ Soul of the god cat, 1 moon lord trophy, 1 bob the blob, 1 true cat sword, 25 ca
 Mechanical heart, 10 mechanical bars, 5 heart crystals, 20 hallowed bars. station: hardmode anvil
 Nurse medallion, 2 blood, 4 heart crystals. station: anvil
 Obsidian artifact, 2 blob bits, 1 obsidian skull, 5 ironskin potions. station: anvil
+Magic Enforcer(s), 2 mana crystals, 5 palladium/5 cobalt
+Void Stone, 1 the book of darkness, 1 scp-500.
+Black hole, 1 void stone, 1 soul of the cat god.
 
 [Comsumables]
 
@@ -99,7 +108,9 @@ Bad drug: 1 syringe, 1 poison,  2 lesser healing potions. station: bottle on a t
 Medium drug: 2 bad drugs, 1 sugar, 1 blood. station: bottle on a table.
 Good drug: 2 blood, 3 blue herbs. station: bottle on a table.
 The drug: 2 good drug, 3 venom. station: bottle on a table.
-Cat eye's: 1 slime crown, 5 souls of night, 5 souls of light, 5 cat shards. station: hardmode anvil
+Cat eye's: 1 slime crown, 5 souls of night, 5 souls of light, 5 cat shards. station: hardmode anvil.
+life Potion, 2 rotten health potions, 5 blob bits, 1 blood.
+Grater Life Potion, 1 Life potion, 25 glowing mushrooms, 1 life crystal
 
 [Ammo]
 
@@ -124,3 +135,12 @@ Mech eye. H
 [Bosses]
 
 King cat slime. H
+
+[Dev Items]
+Cats Blessing
+Dev Crystal
+Dukie
+Dratah Wings
+Death's toys
+Dev Shotgun
+Top Hat
