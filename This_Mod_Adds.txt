@@ -17,7 +17,7 @@ Poison, can be crafted with 1 bottle, 3 stingers, 5 jungle spores. crafted at a 
 Venom, can be crafted with 2 Poison, 1 Flask of venom, 1 heart crystal. crafted at a bottle on a table.
 Magic gun pages, can be crafted with 1 gun book. crafted at a crystal ball
 Blueprint pieces, can be obtained from the goblin Tinkerer.
-Blueprint, can be crafted with 15 Blueprint pieces. crafted at a Tinkerer's workshop.Later if you have it in your inventory
+Blueprint, can be crafted with 15 Blueprint pieces. crafted at a Tinkerer's workshop. Later if you have it in your inventory
 you can buy it from the goblin tinkerer.
 1911 blueprint, can be crafted with 1 blueprint 1 gunbook or 1 Magic gun pages. crafted at a Tinkerer's workshop.
 AK-47 blueprint, can be crafted with 1 blueprint, 1 gunbook or Magic gun pages. crafted at a Tinkerer's workshop.
