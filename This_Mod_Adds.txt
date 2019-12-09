@@ -21,11 +21,11 @@ Blueprint, can be crafted with 15 Blueprint pieces. crafted at a Tinkerer's work
 you can buy it from the goblin tinkerer.
 1911 blueprint, can be crafted with 1 blueprint 1 gunbook or 1 Magic gun pages. crafted at a Tinkerer's workshop.
 AK-47 blueprint, can be crafted with 1 blueprint, 1 gunbook or Magic gun pages. crafted at a Tinkerer's workshop.
-Chest, obtained form chest slimes.
+Chest, obtained from chest slimes.
 Fun facts, can be obtained from the merchant.
-Metallic plating, can be obtained from Chest.
+Metallic plating, can be obtained from Chest or from metal eye or metal slime.
 Token o bless, given to a new character.
-Syringe, obtained from High slimes.
+Syringe, obtained from High slimes when killed.
 Rotten Health Potion, drops from Zombies and skeletons.
 
 [Weapons]
@@ -48,7 +48,7 @@ Normal cat sword, 1 ancient cat sword, 1 newbie cat sword, 15 cat shards, 40 hel
 Cat god's sword, dropped from king cat slime.
 Gun sword, 1 newbie cat sword, 5 cat shard, 2 souls of cat, 20 musket balls, 10 iron bars.
 Reinforced blade, 5 metallic platings, 1wooden sword.
-Reinforced bladex2, 10 metallic platings, 10 iron bars, 1 reinforced blade.
+Reinforced blade x2, 10 metallic platings, 10 iron bars, 1 reinforced blade.
 Activated reinforced blade, 20 metallic platings, 40 bones, 30 hellstone bars, 1 reinforced bladex2, 1 pwnhammer.
 True cat sword, 10 souls of cat, 1 normal cat sword, 20 cat shards, 20 ruby, 5 heart crystals, 2 life fruit, 1 Terra blade.
 Blob staff, 10 fallen stars, 4 blob bits, 5 emeralds.
@@ -145,3 +145,6 @@ Dratah Wings
 Death's toys
 Dev Shotgun
 Top Hat
+Swamon's wings
+Halo
+NoLefs's Wings
