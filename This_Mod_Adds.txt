@@ -139,6 +139,7 @@ Chest slime. H
 High slime. H
 Mech slime. H
 Mech eye. H
+Void slime. H
 
 [Bosses]
 
