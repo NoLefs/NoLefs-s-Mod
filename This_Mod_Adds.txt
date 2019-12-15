@@ -117,12 +117,19 @@ Grater Life Potion, 1 Life potion, 25 glowing mushrooms, 1 life crystal
 
 Blood bullet: 100 chlorophyte bullets, 1 blood. station: anvil
 crystalline arrows: 10 frostburn arrows, 1 ice block, 1 crystal shard. station: anvil
+crystalline arrow quiver: 3996 crystalline arrows. station: table
 steel arrows: 2 iron bars, 20 wood, 20 stone blocks. station: anvil
+steel arrow quiver: 3996 steel arrows. station table
 electric arrows: 20 steel arrows. station: table
+electric arrow quiver: 3996 electric arrows. station: table
 fire rock arrows: 20 steel arrows, 15 hellstone. station: anvil
+fire rock arrow quiver: 3996 fire rock arrows. station: table
 laser arrow: 1 metallic plating, 20 steel arrows. station: anvil
+laser arrow quiver: 3996 laser arrows. station: table
 lef arrow: 30 crystalline arrows, 2 chests. station: anvil
+lef arrow quiver: 3996 lef arrows. station: table
 web arrow: 40 webs, 20 steel arrows. station: anvil
+web arrow quiver: 3996 web arrows. station: table
 
 [NPC'S]  [H, hostile] [F, friendly]
 
