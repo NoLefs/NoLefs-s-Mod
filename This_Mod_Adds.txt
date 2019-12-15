@@ -110,8 +110,8 @@ Medium drug: 2 bad drugs, 1 sugar, 1 blood. station: bottle on a table.
 Good drug: 2 blood, 3 blue herbs. station: bottle on a table.
 The drug: 2 good drug, 3 venom. station: bottle on a table.
 Cat eye's: 1 slime crown, 5 souls of night, 5 souls of light, 5 cat shards. station: hardmode anvil.
-life Potion, 2 rotten health potions, 5 blob bits, 1 blood.
-Grater Life Potion, 1 Life potion, 25 glowing mushrooms, 1 life crystal
+life Potion, 2 rotten health potions, 5 blob bits, 1 blood. station: bottle
+Grater Life Potion, 1 Life potion, 25 glowing mushrooms, 1 life crystal. station: bottle
 
 [Ammo]
 
